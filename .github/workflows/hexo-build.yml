@@ -13,10 +13,6 @@ jobs:
         uses: actions/checkout@v2
         with:
           submodules: true
-      - name: Submodule
-        run: |
-          cd themes
-          ls -al
       - name: Install Node.js v12.14.0
         uses: actions/setup-node@v2
         with:
@@ -34,4 +30,4 @@ jobs:
           git add .
           git commit -m "Site updated" -q
           git push -f -q "https://${{secrets.GH_TOKEN}}@${{secrets.GH_REF_WEBSTACK}}" master
-          git push -f -q "https://${{ secrets.CD_USER }}:${{secrets.CD_TOKEN}}@${{secrets.CD_REF_WEBSTACK}}" master
+          git push -f -q "https://${{secrets.CD_USER}}:${{secrets.CD_TOKEN}}@${{secrets.CD_REF_WEBSTACK}}" master
