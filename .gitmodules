@@ -1,0 +1,4 @@
+[submodule "themes/webstack"]
+	path = themes/webstack
+	url = git@github.com:ql-isaac/hexo-theme-webstack.git
+	branch = master
