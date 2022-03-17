@@ -188,14 +188,26 @@ menu:
     img: https://img.imql.life/logos/GitHub.svg
     url: https://github.com/HCLonely/hexo-theme-webstack
     description: 我的导航站使用的主题
-  - name: WebStack
+  - name: Tabby
     img: https://img.imql.life/logos/GitHub.svg
-    url: https://github.com/HCLonely/hexo-theme-webstack
-    description: 我的导航站使用的主题
+    url: https://github.com/Eugeny/tabby
+    description: A terminal for a more modern age
   - name: Notepad3
     img: https://img.imql.life/logos/GitHub.svg
     url: https://github.com/rizonesoft/Notepad3
     description: Windows 自带记事本的升级版
+  - name: Windows-Auto-Night-Mode
+    img: https://img.imql.life/logos/GitHub.svg
+    url: https://github.com/AutoDarkMode/Windows-Auto-Night-Mode
+    description: Automatically switches between the dark and light theme of Windows 10 and Windows 11
+  - name: frp
+    img: https://img.imql.life/logos/GitHub.svg
+    url: https://github.com/fatedier/frp
+    description: A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet
+  - name: Wox
+    img: https://img.imql.life/logos/GitHub.svg
+    url: https://github.com/Wox-launcher/Wox
+    description: Launcher for Windows, an alternative to Alfred and Launchy
 
 优质软件:
   - name: ScreenToGif
