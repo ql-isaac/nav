@@ -42,6 +42,9 @@ menu:
   - name: 电子游戏
     icon: fas fa-gamepad fa-fw
     config: 电子游戏
+  - name: 资源下载
+    icon: fas fa-download
+    config: 资源下载
   - name: 设计
     icon: fab fa-sketch fa-fw
     submenu:
@@ -254,12 +257,38 @@ menu:
     img: https://img.imql.life/logos/RUNOOB.svg
     url: https://www.runoob.com/
     description: 菜鸟教程
+  - name: GitHub Actions by Example
+    img: https://img.imql.life/logos/知识库.svg
+    url: https://www.actionsbyexample.com/index.html
+    description:
+  - name: GitHub Actions by Example
+    img: https://img.imql.life/logos/知识库.svg
+    url: https://www.actionsbyexample.com/index.html
+    description:
+  - name: ArchWiki
+    img: https://img.imql.life/logos/ArchLinux.svg
+    url: https://wiki.archlinux.org/
+    description:
+  - name: 网道
+    img: https://img.imql.life/logos/知识库.svg
+    url: https://wangdoc.com/
+    description:
 
 电子游戏:
   - name: 游戏免费拿（Epic）
     img: https://img.imql.life/logos/EPIC.svg
     url: https://www.epicgames.com/store/zh-CN/free-games
     description: 每周白嫖，不玩也得拿。
+
+资源下载:
+  - name: ITELL YOU（旧版）
+    img: https://img.imql.life/logos/下载.svg
+    url: https://msdn.itellyou.cn/
+    description:
+  - name: ITELL YOU（新版）
+    img: https://img.imql.life/logos/下载.svg
+    url: https://next.itellyou.cn/
+    description:
 
 图片设计:
   - name: StorySet
