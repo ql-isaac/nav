@@ -48,12 +48,12 @@ menu:
   - name: 设计
     icon: fab fa-sketch fa-fw
     submenu:
-      - name: 图片设计
+      - name: 图片
         icon: fas fa-image fa-fw
-        config: 图片设计
-      - name: 网页设计
+        config: 图片
+      - name: 网页
         icon: fas fa-magic fa-fw
-        config: 网页设计
+        config: 网页
   - name: 素材资源
     icon: fas fa-meteor fa-fw
     submenu:
@@ -290,7 +290,7 @@ menu:
     url: https://next.itellyou.cn/
     description:
 
-图片设计:
+图片:
   - name: StorySet
     img: https://img.imql.life/logos/图片.svg
     url: https://storyset.com/
@@ -303,8 +303,16 @@ menu:
     img: https://img.imql.life/logos/Canva.svg
     url: https://www.canva.cn/
     description:
+  - name: unDraw
+    img: https://img.imql.life/logos/图片.svg
+    url: https://undraw.co/illustrations
+    description:
+  - name: DELESIGN
+    img: https://img.imql.life/logos/图片.svg
+    url: https://delesign.com/free-designs/graphics/
+    description:
 
-网页设计:
+网页:
   - name: 拟物风格生成
     img: https://img.imql.life/logos/网页设计.svg
     url: https://neumorphism.io/
