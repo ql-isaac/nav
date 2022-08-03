@@ -261,10 +261,6 @@ menu:
     img: https://img.imql.life/logos/知识库.svg
     url: https://www.actionsbyexample.com/index.html
     description:
-  - name: GitHub Actions by Example
-    img: https://img.imql.life/logos/知识库.svg
-    url: https://www.actionsbyexample.com/index.html
-    description:
   - name: ArchWiki
     img: https://img.imql.life/logos/ArchLinux.svg
     url: https://wiki.archlinux.org/
