@@ -36,6 +36,9 @@ menu:
   - name: 优质自媒体
     icon: fab fa-creative-commons fa-fw
     config: 优质自媒体
+  - name: 论坛
+    icon: fas fa-comments fa-fw
+    config: 论坛
   - name: 参考资料
     icon: far fa-folder fa-fw
     config: 参考资料
@@ -50,10 +53,10 @@ menu:
     submenu:
       - name: 图片设计
         icon: fas fa-image fa-fw
-        config: 图片
+        config: 图片设计
       - name: 网页设计
         icon: fas fa-magic fa-fw
-        config: 网页
+        config: 网页设计
   - name: 素材资源
     icon: fas fa-meteor fa-fw
     submenu:
@@ -171,6 +174,10 @@ menu:
     img: https://img.imql.life/logos/GitHub.svg
     url: https://github.com/hexojs/hexo
     description: A fast, simple & powerful blog framework, powered by Node.js.
+  - name: SiYuan
+    img: https://img.imql.life/logos/GitHub.svg
+    url: https://github.com/siyuan-note/siyuan
+    description: a local-first personal knowledge management system, supports fine-grained block-level reference, and Markdown WYSIWYG.
   - name: Twikoo
     img: https://img.imql.life/logos/GitHub.svg
     url: https://github.com/imaegoo/twikoo
@@ -252,6 +259,20 @@ menu:
     url: https://space.bilibili.com/14871346/
     description:
 
+论坛:
+  - name: IT 天空
+    img: https://img.imql.life/logos/论坛.svg
+    url: https://www.itsk.com/
+    description:
+  - name: Flarum 中文社区
+    img: https://img.imql.life/logos/论坛.svg
+    url: https://discuss.flarum.org.cn/
+    description:
+  - name: Flarum Community
+    img: https://img.imql.life/logos/论坛.svg
+    url: https://discuss.flarum.org/
+    description:
+
 参考资料:
   - name: 菜鸟教程
     img: https://img.imql.life/logos/RUNOOB.svg
@@ -315,10 +336,10 @@ menu:
     img: https://img.imql.life/logos/iconfont.svg
     url: http://www.iconfont.cn/
     description: 阿里巴巴矢量图标库
-  - name: Font Awesome5 图标库
+  - name: Font Awesome
     img: https://img.imql.life/logos/Font-Awesome.svg
-    url: https://fontawesome.com/icons?d=gallery&g=hands&m=free
-    description: 快速查询 Font Awesome5 的图标。
+    url: https://fontawesome.com/icons
+    description:
   - name: Notion Icons
     img: https://img.imql.life/logos/notion_vip_logo.svg
     url: https://www.notion.vip/icons/
@@ -331,6 +352,18 @@ menu:
     img: https://img.imql.life/logos/IconPark.svg
     url: https://iconpark.oceanengine.com/home
     description:
+  - name: DELESIGN
+    img: https://img.imql.life/logos/icons.svg
+    url: https://delesign.com/free-designs/graphics/icon
+    description:
+  - name: ICONFINDER
+    img: https://img.imql.life/logos/icons.svg
+    url: https://www.iconfinder.com/search/icons
+    description:
+  - name: Noun Project
+    img: https://img.imql.life/logos/icons.svg
+    url: https://thenounproject.com/icons/
+    description:
 
 图片:
   - name: unDraw
@@ -340,6 +373,14 @@ menu:
   - name: DELESIGN
     img: https://img.imql.life/logos/图片.svg
     url: https://delesign.com/free-designs/graphics/
+    description:
+  - name: ICONFINDER
+    img: https://img.imql.life/logos/图片.svg
+    url: https://www.iconfinder.com/search/illustrations
+    description:
+  - name: Noun Project
+    img: https://img.imql.life/logos/图片.svg
+    url: https://thenounproject.com/photos/
     description:
   - name: wallhaven
     img: https://img.imql.life/logos/图片.svg
